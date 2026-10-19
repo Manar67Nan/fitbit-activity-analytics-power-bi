@@ -45,7 +45,7 @@ Analyzes changes in physical activity and sedentary behavior across different we
 
 ### 4. Marketing Insight & Predictive Analytics
 
-![Fitbit Predictive Analytics](./Marketing%20insight.png)
+![Fitbit Predictive Analytics](./marketing-insight.png)
 
 Explores future activity trends and factors associated with calorie expenditure.
 
